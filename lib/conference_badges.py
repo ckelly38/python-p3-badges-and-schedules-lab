@@ -25,4 +25,4 @@ def printer(names):
         print(rmnum);
     return None;
 
-printer(["Alan", "Tron", "Clu", "Kevin Flynn"]);
+#printer(["Alan", "Tron", "Clu", "Kevin Flynn"]);
